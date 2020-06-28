@@ -1,11 +1,11 @@
 {
-  "name": "MediumExport",
+  "name": "uxflex",
   "version": "1.0.0",
-  "author": "Phil Hawksworth",
+  "author": "Jay Landro",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/philhawksworth/medium-export"
+    "url": "https://github.com/jaylandro/uxflex"
   },
   "scripts": {
     "start": "gulp watch & eleventy --serve",
